@@ -1,0 +1,1 @@
+Aquí encontrarás el repositorio con los códigos en Jupyter Notebooks, del modelo Híbrido Cuantico para la clasificación de tumores cerebrales. Para poder las visualizar las pruebas exhaustivas, será necesario que descarge el archivo.
